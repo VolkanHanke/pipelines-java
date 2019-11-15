@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/volkanhanke0094/volkanhanke/_apis/build/status/VolkanHanke.pipelines-java?branchName=master)](https://dev.azure.com/volkanhanke0094/volkanhanke/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
